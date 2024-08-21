@@ -1,1 +1,2 @@
 # Langchain-Excel-Reader-RAG
+This project processes an .xlsx Excel file containing various internet queries on a specific topic, along with their corresponding answers. The file includes multiple similar questions related to the same subject. Using the LLAMA 3.1 language model integrated into the Retrieval-Augmented Generation (RAG) system, the project provides logical and quick responses based on these queries.
